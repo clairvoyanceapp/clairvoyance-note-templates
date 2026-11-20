@@ -1,0 +1,31 @@
+{
+  "id": "feedback",
+  "version": 2,
+  "name": "Feedback",
+  "icon": "message-square-quote",
+  "noteType": "feedback",
+  "order": 74,
+  "content": [
+    "---",
+    "type: feedback",
+    "date: {date}",
+    "tags: [feedback]",
+    "---",
+    "# {title}",
+    "",
+    "## Summary",
+    "",
+    "",
+    "## Feedback",
+    "",
+    "> Add one piece of feedback per block. Separate each with a `---` line.",
+    "",
+    "### Example feedback",
+    "Great turnaround on the release notes — the changelog was clear and easy to skim.",
+    "",
+    "---",
+    "",
+    ""
+  ],
+  "group": "work"
+}

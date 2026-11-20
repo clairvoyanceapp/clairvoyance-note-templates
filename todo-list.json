@@ -1,0 +1,22 @@
+{
+  "id": "todo-list",
+  "version": 2,
+  "name": "Todo List",
+  "icon": "list-todo",
+  "noteType": "todo-list",
+  "order": 15,
+  "content": [
+    "---",
+    "type: todo-list",
+    "date: {date}",
+    "tags: [todo]",
+    "---",
+    "# Todo List — {date}",
+    "",
+    "- [ ]",
+    "- [ ]",
+    "- [ ]",
+    ""
+  ],
+  "group": "planning"
+}

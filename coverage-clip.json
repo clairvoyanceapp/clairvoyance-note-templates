@@ -1,0 +1,29 @@
+{
+  "id": "coverage-clip",
+  "version": 2,
+  "name": "Coverage Clip",
+  "icon": "bookmark",
+  "noteType": "press-coverage",
+  "order": 72,
+  "content": [
+    "---",
+    "type: press-coverage",
+    "outlet:",
+    "publishedAt: {date}",
+    "sentiment:",
+    "reach:",
+    "url:",
+    "headline:",
+    "---",
+    "# Coverage Clip",
+    "",
+    "## Summary",
+    "",
+    "",
+    "## Key quotes",
+    "",
+    "> ",
+    ""
+  ],
+  "group": "work"
+}

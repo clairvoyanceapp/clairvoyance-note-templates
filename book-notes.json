@@ -1,0 +1,33 @@
+{
+  "id": "book-notes",
+  "version": 2,
+  "name": "Book Notes",
+  "icon": "book-open",
+  "noteType": "book",
+  "order": 40,
+  "content": [
+    "---",
+    "type: book",
+    "date: {date}",
+    "title:",
+    "author:",
+    "rating:",
+    "genre:",
+    "tags: [book]",
+    "---",
+    "# Book Notes",
+    "",
+    "## Key Takeaways",
+    "1.",
+    "2.",
+    "3.",
+    "",
+    "## Favorite Quotes",
+    ">",
+    "",
+    "## Summary",
+    "",
+    ""
+  ],
+  "group": "collections"
+}
